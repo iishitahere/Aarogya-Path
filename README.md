@@ -40,6 +40,6 @@ by turning 10,000 messy facility records into a living intelligence network.
 | UX & Transparency | 10% | Citations on every recommendation + trust badges |
 
 ## Live Demo
-[AarogyaPath Web App](PASTE_LOVABLE_URL_HERE)
+[AarogyaPath Web App](https://aarogya-path-aid.lovable.app/)
 
 ## Architecture
